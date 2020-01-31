@@ -1,0 +1,11 @@
+    {PROGRAM_NAME} 
+
+
+    -a|--start      for start program
+    -o|--stop       for stop program
+    -d|--debug      for start program with debug mode
+    -h|--help       for print help
+
+For example:
+    ./run.sh -o -d  Stop and start with debug mode
+
